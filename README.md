@@ -1,13 +1,13 @@
 cat > README.md << 'EOF'
-# button-effect
+# Button-Effect
 
 ```bash
 user@codebits:~$ ./button-effect --run
 > Animación de botón con HTML y CSS puro
 ```
-## stack
+# Stack
 
-## código
+## Código
 
 **index.html**
 ```html
@@ -57,7 +57,7 @@ button:active {
 }
 ```
 
-## cómo funciona
+## Cómo funciona
 
 | estado | efecto |
 |---|---|
@@ -67,7 +67,7 @@ button:active {
 
 El truco está en `transition: 0.5s ease` — suaviza todos los cambios automáticamente.
 
-## uso
+## Uso
 
 ```bash
 git clone https://github.com/codebits-22/button-effect.git
@@ -75,7 +75,7 @@ cd button-effect
 open index.html
 ```
 
-## canal
+## Canal
 
 https://www.youtube.com/@codebits-22
 
