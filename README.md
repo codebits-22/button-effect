@@ -1,8 +1,8 @@
 cat > README.md << 'EOF'
 # Button-Effect
 
-```bash
-user@codebits:~$ ./button-effect --run
+```basR
+user@codebits:~$ ./Button-Effect --run
 > Animación de botón con HTML y CSS puro
 ```
 # Stack
